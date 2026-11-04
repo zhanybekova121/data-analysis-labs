@@ -1,0 +1,61 @@
+Order Date,Region,Category,Product,Revenue
+2022-01-06,West,Apparel,Jeans,58
+2022-01-07,South,Home Goods,Coffee Maker,143
+2022-01-15,West,Electronics,Tablet,614
+2022-01-15,East,Apparel,Jacket,78
+2022-01-19,East,Apparel,Jeans,78
+2022-01-30,South,Home Goods,Bedding Set,49
+2022-02-02,South,Apparel,T-Shirt,15
+2022-02-04,South,Home Goods,Coffee Maker,98
+2022-02-04,East,Home Goods,Bedding Set,68
+2022-02-13,East,Electronics,Smartphones,728
+2022-02-17,East,Home Goods,Lamp,33
+2022-02-24,South,Electronics,Smartphones,527
+2022-03-02,East,Apparel,T-Shirt,28
+2022-03-02,East,Electronics,Tablet,536
+2022-03-03,East,Electronics,Smartphones,513
+2022-03-06,South,Home Goods,Coffee Maker,74
+2022-03-06,South,Electronics,Headphones,97
+2022-03-08,West,Electronics,Headphones,90
+2022-03-10,West,Apparel,Jeans,39
+2022-03-15,South,Apparel,Jeans,33
+2022-03-17,South,Electronics,Smartphones,797
+2022-03-18,South,Apparel,Sneakers,77
+2022-03-20,West,Home Goods,Couch,655
+2022-03-22,South,Apparel,T-Shirt,15
+2022-03-23,West,Electronics,Laptop,987
+2022-03-24,West,Home Goods,Coffee Maker,143
+2022-03-25,South,Home Goods,Coffee Maker,105
+2022-03-26,East,Apparel,Jacket,85
+2022-03-30,East,Electronics,Laptop,710
+2022-04-01,East,Electronics,Smartphones,852
+2022-04-08,West,Apparel,Jacket,112
+2022-04-11,West,Electronics,Headphones,127
+2022-04-18,East,Apparel,Jacket,79
+2022-04-19,West,Apparel,Jacket,139
+2022-04-20,West,Apparel,Jeans,36
+2022-04-22,East,Apparel,T-Shirt,25
+2022-04-26,West,Home Goods,Couch,812
+2022-04-27,South,Apparel,Jeans,53
+2022-05-01,South,Electronics,Laptop,1058
+2022-05-02,South,Electronics,Laptop,923
+2022-05-13,South,Apparel,T-Shirt,25
+2022-05-15,West,Home Goods,Couch,572
+2022-05-21,West,Home Goods,Bedding Set,92
+2022-05-25,West,Apparel,T-Shirt,16
+2022-05-29,East,Apparel,Jeans,57
+2022-05-31,South,Home Goods,Bedding Set,80
+2022-06-02,South,Apparel,Jacket,118
+2022-06-03,West,Home Goods,Lamp,53
+2022-06-04,West,Electronics,Laptop,916
+2022-06-04,East,Electronics,Tablet,446
+2022-06-05,West,Apparel,Sneakers,65
+2022-06-08,West,Home Goods,Lamp,63
+2022-06-16,South,Electronics,Headphones,139
+2022-06-20,East,Home Goods,Coffee Maker,110
+2022-06-21,East,Electronics,Smartphones,548
+2022-06-23,West,Electronics,Smartphones,452
+2022-06-24,East,Home Goods,Bedding Set,96
+2022-06-27,East,Electronics,Tablet,323
+2022-06-28,West,Home Goods,Bedding Set,81
+2022-06-29,West,Electronics,Smartphones,638
